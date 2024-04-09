@@ -1,0 +1,1 @@
+"Este arquivo e esta pasta foram criados pelo prompt de comando" 
